@@ -6,4 +6,4 @@ Objetivo do projeto era criar um cartão simples.
 ## Programas 
  HTML
 
- CSS
+ CSS.
